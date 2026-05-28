@@ -1,0 +1,8 @@
+{
+  "name": "Minimize to Desktop Thumbnail",
+  "description": "При сворачивании окно превращается в миниатюру на рабочем столе",
+  "uuid": "minimize-to-desktop",
+  "version": 2,
+  "shell-version": ["46", "47", "48", "49", "50"],
+  "url": "https://github.com/LiteTabs/minimize-to-desktop"
+}
